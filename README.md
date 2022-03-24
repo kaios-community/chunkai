@@ -2,7 +2,17 @@
 
 Chunkai is a library for downloaing large files on KaiOS.
 
+## Install
+
+```
+npm install chunkai
+```
+
+## Usage
+
 ```js
+import { Chunkai } from 'chunkai';
+
 const chunkai = new Chunkai({
   chunkByteLimit: 1048576,
   storageName: 'sdcard',
