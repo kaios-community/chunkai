@@ -1,7 +1,17 @@
 {
   "name": "chunkai",
   "version": "1.0.0",
-  "description": "",
+  "description": "A library for downloaing large files on KaiOS",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/garredow/chunkai.git"
+  },
+  "author": "Garrett Downs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/garredow/chunkai/issues"
+  },
+  "homepage": "https://github.com/garredow/chunkai#readme",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
@@ -15,8 +25,6 @@
     "clean": "rimraf ./lib"
   },
   "keywords": [],
-  "author": "",
-  "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.17.8",
     "@babel/preset-env": "^7.16.11",
