@@ -1,5 +1,7 @@
 # Chunkai
 
+[![CircleCI](https://circleci.com/gh/garredow/chunkai/tree/main.svg?style=svg)](https://circleci.com/gh/garredow/chunkai/tree/main)
+
 Chunkai is a library for downloading large files on KaiOS.
 
 ## Install
