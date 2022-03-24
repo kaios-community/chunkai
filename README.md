@@ -1,6 +1,6 @@
 # Chunkai
 
-Chunkai is a library for downloaing large files on KaiOS.
+Chunkai is a library for downloading large files on KaiOS.
 
 ## Install
 
