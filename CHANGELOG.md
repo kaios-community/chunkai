@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/garredow/chunkai/compare/v1.0.0...v1.0.1) (2022-03-24)
+
+
+### Bug Fixes
+
+* test cicd ([dae5534](https://github.com/garredow/chunkai/commit/dae5534a8c2bc7fa30857fc326975ba70de1e51b))
+
 # 1.0.0 (2022-03-24)
 
 
